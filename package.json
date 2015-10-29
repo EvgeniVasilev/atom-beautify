@@ -1,4 +1,4 @@
-[
+
 {
   "name": "atom-beautify",
   "main": "./src/beautify",
@@ -165,4 +165,4 @@
     "lint": "coffeelint src/ spec/"
   }
 }
-]
+
